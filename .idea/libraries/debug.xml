@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-5286337db314661b1c724941d06a19c77ba8e213.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-27e01cfa47785315f4fd7d7d4324e61779464996.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/classes-2ffc9086b402a3c41a5f6014404948e61853151c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/classes-b0eda055e3618fcf533fafe59bbd1c4f4e6bd0b6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/classes-ae3a6e8dbd6147738c5c351fb8f3d415c20018a0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/classes-5ee9f58a2524824ecf5d9b0b076747ef26d85e4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-006ce85cced6eb823a57555fe4999c1641a59cea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-e3fda2dc34a603f25e5a3c1e0dfc079c7ddf9c26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/classes-63475aa1e668a9b181bf1d056812f166c608f314.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OnBlickTest2/app/build/intermediates/pre-dexed/debug/classes-688511136d9855ee627e3e50e0a80657480cb9a7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
